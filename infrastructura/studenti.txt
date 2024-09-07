@@ -1,0 +1,17 @@
+3452,Mihai,7
+7432,Maria,635
+1651,Mihai,50
+5911,Stefan,143
+2324,Sebastian,234
+1001,George,22
+1321,Alex,55
+1432,Alex,87
+2133,Andrei,233
+2136,Bumbu,22
+3224,Dragos,734
+548,Stefan,717
+9720,Andrei,334
+8264,Maria,623
+6129,George,614
+218,Diana,236
+9342,Andrei,500
