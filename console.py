@@ -243,6 +243,10 @@ class UI:
 
 
     def run(self):
+        print('''Comenzi: add_student, add_problema, modif_student, modif_problema, cauta_student, 
+        cauta_problema, del_student, del_problema, print_studenti, print_problema,
+        generate_student, asign_nota, asign_problema, modif_nota, sterge_nota, 
+        sort_note, sort_nume, medie_sub_5''')
         while True:
             comanda = input(">>>")
             comanda = comanda.strip()

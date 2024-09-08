@@ -230,5 +230,6 @@ class Teste:
 
     def run(self):
         print("Se incepe rularea testelor...")
+        print("...")
         self.__rulare_teste()
-        print("Testele au fost rulate cu succes!")
+        print("Testele au fost rulate cu succes!\n")
